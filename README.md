@@ -13,8 +13,11 @@ This repository contains the RTL design, simulation, and ASIC implementation flo
 ## Directory Structure
 
 ├── Code/                # Verilog RTL source files and testbenches
+
 ├── openlane/           # OpenLane2 configuration and results
+
 ├── docs/               # Project report and documentation
+
 └── README.md           # This file
 
 ## Results
